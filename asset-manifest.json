@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/exp3-react-product-ui/static/css/main.9d63c310.css",
+    "main.js": "/exp3-react-product-ui/static/js/main.0e6d8ceb.js",
+    "static/js/453.121713b6.chunk.js": "/exp3-react-product-ui/static/js/453.121713b6.chunk.js",
+    "index.html": "/exp3-react-product-ui/index.html",
+    "main.9d63c310.css.map": "/exp3-react-product-ui/static/css/main.9d63c310.css.map",
+    "main.0e6d8ceb.js.map": "/exp3-react-product-ui/static/js/main.0e6d8ceb.js.map",
+    "453.121713b6.chunk.js.map": "/exp3-react-product-ui/static/js/453.121713b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d63c310.css",
+    "static/js/main.0e6d8ceb.js"
+  ]
+}
