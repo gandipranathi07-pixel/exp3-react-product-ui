@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  display: inline-block;
+  border-radius: 10px;
+  width: 220px;
+  background: #f9f9f9;
+}
+
+button {
+  background: blue;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+}
+
